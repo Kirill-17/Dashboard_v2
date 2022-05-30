@@ -1,0 +1,16 @@
+.avatar {
+  border-radius: 99999px;
+  height: 40px;
+  width: 40px;
+  overflow: hidden;
+  margin: 2rem auto;  
+  // background: #a7a7a7;
+
+  img {
+    height:100%;
+    width: 100%;
+    object-fit: contain;
+    
+
+  }
+}
